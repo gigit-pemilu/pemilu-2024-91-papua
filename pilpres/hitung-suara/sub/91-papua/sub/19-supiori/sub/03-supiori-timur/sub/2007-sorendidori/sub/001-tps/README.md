@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 143
+    bar [8, 143, 61]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 8
+    "2" : 143
+    "3" : 61
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 8     | [8][p-1]    | 3,77       |
+| 2   | PRABOWO GIBRAN | 143   | [143][p-2]  | 67,45      |
+| 3   | GANJAR MAHFUD  | 61    | [61][p-3]   | 28,77      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/91-papua/sub/19-supiori/sub/03-supiori-timur/sub/2007-sorendidori/sub/001-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/91-papua/sub/19-supiori/sub/03-supiori-timur/sub/2007-sorendidori/sub/001-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/91-papua/sub/19-supiori/sub/03-supiori-timur/sub/2007-sorendidori/sub/001-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/ca48/pemilu/ppwp/91/19/03/20/07/9119032007001-20240220-210218--f13d53e6-073a-48c9-9771-2d4aefb9a7df.jpg
+
+https://sirekap-obj-formc.kpu.go.id/ca48/pemilu/ppwp/91/19/03/20/07/9119032007001-20240220-210109--5b6a5c8d-777d-44b4-8019-75f176fd9d49.jpg
+
+https://sirekap-obj-formc.kpu.go.id/ca48/pemilu/ppwp/91/19/03/20/07/9119032007001-20240221-192516--e712852d-14d2-4df9-9ee5-003ee007a687.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-21 20:00:00 |
+
+
+
